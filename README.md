@@ -31,8 +31,7 @@ count_of_target_values_by_users=users_target_counter.values()
 
 counter_of_events_by_users = Counter(count_of_target_values_by_users)
 #print(counter_of_events_by_users)
-# Cчетчик counter_of_events_by_users, 
-#где в качестве ключа - число целевых действий, а значения - количество пользователей,
+#Cчетчик counter_of_events_by_users, где в качестве ключа - число целевых действий, а значения - количество пользователей,
 #совершивших определенное число целевых действий.
 
 
