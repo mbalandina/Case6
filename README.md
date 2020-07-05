@@ -1,4 +1,5 @@
-# Case6 import json
+# Case6 
+import json
 file_path = 'case6.json'
 with open(file_path, 'rb') as f:
     data = json.load(f)
